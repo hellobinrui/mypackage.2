@@ -2,3 +2,4 @@
  <!-- badges: start -->
   [![R-CMD-check](https://github.com/hellobinrui/mypackage.2/workflows/R-CMD-check/badge.svg)](https://github.com/hellobinrui/mypackage.2/actions)
   <!-- badges: end -->
+https://codecov.io/gh/hellobinrui/mypackage.2/settings/badge
