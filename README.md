@@ -1,5 +1,7 @@
 # mypackage.2
  <!-- badges: start -->
-  [![R-CMD-check](https://github.com/hellobinrui/mypackage.2/workflows/R-CMD-check/badge.svg)](https://github.com/hellobinrui/mypackage.2/actions)(https://codecov.io/gh/hellobinrui/mypackage.2/settings/badge)
+  [![R-CMD-check](https://github.com/hellobinrui/mypackage.2/workflows/R-CMD-check/badge.svg)](https://github.com/hellobinrui/mypackage.2/actions)
   <!-- badges: end -->
+  
+  [![codecov](https://codecov.io/gh/hellobinrui/mypackage.2/branch/main/graph/badge.svg)](https://codecov.io/gh/hellobinrui/mypackage.2)
 
